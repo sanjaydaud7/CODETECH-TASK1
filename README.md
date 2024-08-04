@@ -8,6 +8,8 @@ mentor: Muzammil Ahmed
 Project Overview: Weather Forecast App
 
 Objective: The objective of this project is to design and develop a web-based Weather Forecast App that allows users to search for the current weather conditions of a specific city and display the relevant information in a user-friendly format.
+![image](https://github.com/user-attachments/assets/08c19fa7-68e7-42cb-a9d4-0bfffcb4d4b0)
+
 
 Key Activities:
 
